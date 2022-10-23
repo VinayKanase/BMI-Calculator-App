@@ -1,7 +1,7 @@
-# BMI Calculator
+# BMI Calculator App
 
 A BMI Calculator made using fluter.
 
 ## Output app Video
 
-<center><video controls autoplay loop src="./output.mp4" width="70%">Your browser doesn’t support video playback.</video></center>
+https://user-images.githubusercontent.com/72207624/197411268-96911d27-474d-451c-afee-5b132ff4a611.mp4
